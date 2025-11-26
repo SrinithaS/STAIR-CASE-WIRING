@@ -44,7 +44,8 @@ Tabulation 2
 <img width="632" height="192" alt="image" src="https://github.com/user-attachments/assets/8e944ce6-90c1-4308-b06d-23fe8f9dfb36" />
 
 Result: 
+<img width="1366" height="599" alt="image" src="https://github.com/SrinithaS/STAIR-CASE-WIRING/blob/main/Screenshot%202025-11-26%20192220.png" />
 <img width="1366" height="599" alt="image" src="https://github.com/SrinithaS/STAIR-CASE-WIRING/blob/main/Screenshot%202025-11-26%20192141.png" />
-<img width="1366" height="599" alt="image" src=""
+
 Thus the staircase wiring is connected and tested.
 

@@ -33,19 +33,19 @@ Circuit Diagram:
 Direct Connection:
 <img width="619" height="314" alt="image" src="https://github.com/user-attachments/assets/adcbab25-2530-4251-99b8-3fd0829f298d" />
 
-Tabulation:
-<img width="659" height="205" alt="image" src="https://github.com/user-attachments/assets/b9a577d8-4f3f-45a7-b9dc-0056a2fe904c" />
+Tabulation 1:
+
+<img width="932" height="414" alt="image" src="https://github.com/user-attachments/assets/8412ec7e-2165-4d5e-bd5a-9126bae0bb94" />
 
 Circuit Diagram:
 Cross Connection:
 <img width="617" height="308" alt="image" src="https://github.com/user-attachments/assets/cb78f403-981f-4287-ae31-999310d871dc" />
 
 Tabulation 2
-<img width="632" height="192" alt="image" src="https://github.com/user-attachments/assets/8e944ce6-90c1-4308-b06d-23fe8f9dfb36" />
+<img width="880" height="347" alt="image" src="https://github.com/user-attachments/assets/bbbe3ef8-5117-463f-a038-ba71dc7f02f4" />
+
 
 Result: 
-<img width="1366" height="599" alt="image" src="https://github.com/SrinithaS/STAIR-CASE-WIRING/blob/main/Screenshot%202025-11-26%20192220.png" />
-<img width="1366" height="599" alt="image" src="https://github.com/SrinithaS/STAIR-CASE-WIRING/blob/main/Screenshot%202025-11-26%20192141.png" />
 
 Thus the staircase wiring is connected and tested.
 
